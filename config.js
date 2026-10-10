@@ -88,9 +88,9 @@ module.exports = {
     
     // Social Links (optional)
     social: {
-      github: 'https://github.com/mruniquehacker',
+      github: 'https://github.com/3joke',
       instagram: 'https://instagram.com/yourusername',
-      youtube: 'http://youtube.com/@mr_unique_hacker'
+      youtube: 'http://youtube.com/@Somiejoker'
     }
 };
   
